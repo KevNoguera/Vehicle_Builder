@@ -1,4 +1,4 @@
-{
+{ 
   "name": "develop",
   "version": "1.0.0",
   "description": "",
@@ -18,5 +18,5 @@
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
     "@types/node": "^20.12.7"
-  }
-}
+  }  
+} 
