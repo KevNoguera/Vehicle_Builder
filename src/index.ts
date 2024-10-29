@@ -21,7 +21,7 @@ const car1 = new Car(
   3000,
   130,
   []
-);
+); 
 
 // TODO: uncomment once motorbikes are implemented
 const motorbike1Wheels = [new Wheel(17, "Michelin"), new Wheel(17, "Michelin")];
