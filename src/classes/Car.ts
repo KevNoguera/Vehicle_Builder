@@ -13,7 +13,7 @@ class Car extends Vehicle {
   weight: number;
   topSpeed: number;
   wheels: Wheel[];
-
+  
   // Constructor for the Car class
   constructor(
     vin: string,
